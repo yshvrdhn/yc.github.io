@@ -1,2 +1,3 @@
 name: Yashovardhan Chaturvedi, Your average next door Joe ;)!
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
